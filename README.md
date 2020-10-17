@@ -46,9 +46,12 @@
 
 <img align="left" alt="Chetan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ch374n&show_icons=true&hide_border=true" />
 
+
 <!-- [website]: https://codeSTACKr.com -->
 [twitter]: https://twitter.com/Chetan_R_N
 [linkedin]: https://www.linkedin.com/in/chetan-nimbalkar-4b3311148/
 [dev]: https://dev.to/ch374n
 
-[<img src="spotify-now-playing.ch374n.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/sioc1uli2u3di8n4gbulrl50j)
+[![Spotify](https://spotify-now-playing.ch374n.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
+
+
