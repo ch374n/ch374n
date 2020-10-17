@@ -50,3 +50,6 @@
 [twitter]: https://twitter.com/Chetan_R_N
 [linkedin]: https://www.linkedin.com/in/chetan-nimbalkar-4b3311148/
 [dev]: https://dev.to/ch374n
+
+[<img src="https://spotify-now-playing-bay-theta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/sioc1uli2u3di8n4gbulrl50j
+)
