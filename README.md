@@ -52,6 +52,3 @@
 [linkedin]: https://www.linkedin.com/in/chetan-nimbalkar-4b3311148/
 [dev]: https://dev.to/ch374n
 
-[![Spotify](https://spotify-now-playing.ch374n.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
-
-
