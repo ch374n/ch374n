@@ -45,7 +45,11 @@
 <!-- --- -->
 
 <img align="left" alt="Chetan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ch374n&show_icons=true&hide_border=true" />
-
+<br/>
+<a href="https://github.com/ch374n">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ch374n&theme=buefy&show_icons=true" />
+</a>
+<br/>
 
 <!-- [website]: https://codeSTACKr.com -->
 [twitter]: https://twitter.com/Chetan_R_N
