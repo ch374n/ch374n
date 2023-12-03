@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Spring Boot.
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on open source projects.
-- 🥅 2021 Goals: Learn as much as  I could and help others, Read more.
+- 🥅 2023 Goals: Learn as much as  I could and help others, Read more.
 - ⚡ Fun fact: I love typing, you can find me [here](https://data.typeracer.com/pit/profile?user=ch374n) 😇
 
 ### Connect with me:
